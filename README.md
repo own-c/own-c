@@ -57,8 +57,7 @@ This project is about **trust, transparency, and digital sovereignty**.
 
 ---
 
-## **🔹 Next Steps**
-Before moving into implementation, the following will be finalized:  
+### The following will be finalized:  
 - 🔹 **Hashing & cryptographic structures**  
 - 🔹 **User flow & privacy-preserving mechanisms**  
 - 🔹 **Context-aware AI verification logic**  
